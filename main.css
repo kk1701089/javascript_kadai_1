@@ -1,0 +1,25 @@
+#container{
+    text-align: center;
+    width: 600px;
+    background-color: coral;
+    border-radius: 30px;
+}
+#time{
+    font-size: 50px;
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+}
+#start{
+    margin: 5px;
+    font-size: 2rem;
+}
+#stop{
+    margin: 5px;
+    font-size: 2rem;
+}
+#reset{
+    margin: 5px;
+    font-size: 2rem;
+}
